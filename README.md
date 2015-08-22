@@ -2,7 +2,7 @@
 
 ## Overview
 
-JSON数据解析视频配套代码
+《iOS技术视频-JSON数据解析》配套代码
 
 ## Requirements
 
